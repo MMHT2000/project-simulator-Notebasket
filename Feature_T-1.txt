@@ -1,0 +1,1 @@
+As a user, I want to register a new account so that I can create a personal profile and start using the platform.
