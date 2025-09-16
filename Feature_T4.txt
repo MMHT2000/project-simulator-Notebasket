@@ -1,0 +1,1 @@
+As a user, I want to search and filter notes so that I can find notes based on categories or tags.
