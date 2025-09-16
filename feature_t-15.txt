@@ -1,0 +1,1 @@
+As a NoteMaster, I want to register as a NoteMaster so that I can upload notes for others.
